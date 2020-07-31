@@ -3,5 +3,5 @@
 각자 PPT는 본 Repository에 업로드하였습니다.
 
 ### 참여인원
-박종혁, [차승철](https://github.com/FroKCreativeTM), 최선빈
+[박종혁](https://github.com/Kaya176), [차승철](https://github.com/FroKCreativeTM), [최선빈](https://github.com/choi-sunbin)
 
